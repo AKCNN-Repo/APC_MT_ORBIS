@@ -7,5 +7,5 @@ The base dataset is compiled from the 800 annotated images of mannitol and sucro
 This dataset was divided into training and testing subsets in a 9:1 ratio, resulting in 1,335 training instances.
 ![image](https://github.com/user-attachments/assets/e8b676f0-d347-4d24-bc8f-2ff50698ab3e)
 
-The training/testing dataset, and the requirements.txt for the python environment can be downloaded from the link: 
+The training/testing dataset and the requirements.txt for the python environment can be downloaded from the link: 
 At (https://drive.google.com/drive/folders/1y4xSpkGMH8bbT1gsEhlUhRDZSBI8KgbX)
